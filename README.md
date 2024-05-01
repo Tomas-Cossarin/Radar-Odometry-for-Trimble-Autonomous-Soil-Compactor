@@ -1,6 +1,6 @@
 # Radar-Odometry-for-Trimble-Autonomous-Soil-Compactor
 
-This project was completed for Trimble in colaboration with a team from the University of Colorado Boulder. The objective was to calculate the autonomous soil compactor's change in position relative to its starting location.
+This project was completed for Trimble in colaboration with a team from the University of Colorado Boulder. The objective was to calculate the autonomous soil compactor's change in position relative to its starting location, using radar odometry as a very cheap alternative to GNSS.
 
 ![compactor](compactor.jpg)
 
@@ -25,6 +25,10 @@ At each epoch:
     to this velocity and the length of the epoch in seconds
 
 ## Results
+
+Radar odometry was very effective in a straight line.
+
+However, accuracy drops once the vehicle begins turning because the heading is not very accurate.
 
 ![ds1x](ds1x.png)
 ![ds1y](ds1y.png)
