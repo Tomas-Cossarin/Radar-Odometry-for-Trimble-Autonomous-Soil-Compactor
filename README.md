@@ -23,3 +23,10 @@ At each epoch:
     
 - The compactors's location on the x-y plane is updated according
     to this velocity and the length of the epoch in seconds
+
+## Results
+
+![ds1x](ds1x.jpg)
+![ds1y](ds1y.jpg)
+![ds2x](ds2x.jpg)
+![ds2y](ds2y.jpg)
