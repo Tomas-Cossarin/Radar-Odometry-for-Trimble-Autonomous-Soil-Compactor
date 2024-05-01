@@ -26,7 +26,7 @@ At each epoch:
 
 ## Results
 
-![ds1x](ds1x.jpg)
-![ds1y](ds1y.jpg)
-![ds2x](ds2x.jpg)
-![ds2y](ds2y.jpg)
+![ds1x](ds1x.png)
+![ds1y](ds1y.png)
+![ds2x](ds2x.png)
+![ds2y](ds2y.png)
