@@ -1,6 +1,6 @@
 # Radar-Odometry-for-Trimble-Autonomous-Soil-Compactor
 
-This project was completed for Trimble in colaboration with a team from the University of Colorado Boulder. The objective was to calculate the autonomous soil compactor's change in position relative to its starting location, using radar odometry as a very cheap alternative to GNSS.
+This project was completed for Trimble in colaboration with a team from the University of Colorado Boulder. The objective was to calculate the change in the autonomous soil compactor's position relative to its starting location, using radar odometry as a very cheap alternative to GNSS.
 
 ![compactor](compactor.jpg)
 
